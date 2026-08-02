@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+
+.claude/
+.atl/
+.mcp.json
+CLAUDE.md
+instrucciones.md
